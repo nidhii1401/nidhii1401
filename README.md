@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on refining my problem-solving skills to become a more well-rounded developer.<br> 👯 I’m looking to collaborate with other problem-solvers and creative thinkers.<br> 🤝 I’m looking for help with brainstorming new ideas and finding innovative solutions.<br> 🌱 I’m currently learning the MERN stack, MongoDB, and more.<br> 💬 Ask me about tech, databases, and problem-solving.<br> ⚡ Fun fact:I sometimes spend hours debugging a missing semicolon😆.
+🔭 I’m currently working on refining my problem-solving skills to become a more well-rounded developer.<br> 👯 I’m looking to collaborate with other problem-solvers and creative thinkers.<br> 🤝 I’m looking for help with brainstorming new ideas and finding innovative solutions.<br> 🌱 I’m currently learning the MERN stack, MongoDB, and more.<br> 💬 Ask me about tech, databases, and problem-solving.<br> ⚡ Fun fact: I sometimes spend hours debugging a missing semicolon😆.
 
 
 ## 🌐 Socials:
