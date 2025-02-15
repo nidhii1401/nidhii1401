@@ -1,34 +1,27 @@
-## 💫About Me
+# 💫 About Me:
+- 🔭 I’m currently working on refining my problem-solving skills to become a more well-rounded developer.<br>- 👯 I’m looking to collaborate with other problem-solvers and creative thinkers.<br>- 🤝 I’m looking for help with brainstorming new ideas and finding innovative solutions.<br>- 🌱 I’m currently learning the MERN stack, MongoDB, and more.<br>- 💬 Ask me about tech, databases, and problem-solving.<br>- ⚡ Fun fact: I debug code better than I navigate my hometown!😆.<br>
 
-*   👋 Hi, I’m Nidhi Chaudhary.
-*   🔭 I’m currently working on refining my problem-solving skills to become a more well-rounded developer.
-*   👯 I’m looking to collaborate with other problem-solvers and creative thinkers.
-*   🤝 I’m looking for help with brainstorming new ideas and finding innovative solutions.
-*   🌱 I’m currently learning the MERN stack, MongoDB, and more.
-*   💬 Ask me about tech, databases, and problem-solving.
-*   ⚡ Fun fact: I debug code better than I navigate my hometown!😆.
 
-## My Skills
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nidhichaudhary1416) 
 
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
-<img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white"> 
-<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff"> 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nidhii1401&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nidhii1401&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhii1401&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## GitHub Stats
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nidhii1401&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=nidhii1401&theme=dark&show_icons=true&count_private=true"><br>
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=nidhii1401&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=nidhii1401&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-## Connect with me
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nidhii1401&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
-<p align="center">🔗 LinkedIn: <a href="www.linkedin.com/in/nidhichaudhary1416" target="_blank">Nidhi Chaudhary</a> Email: nidhichaudhary1617@gmail.com</p>
+---
+[![](https://visitcount.itsvg.in/api?id=nidhii1401&icon=5&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
